@@ -2,6 +2,7 @@
 
 * [Award](#award)
 * [Inspiration](#inspiration)
+* [Demonstration](#demonstration)
 * [What it does](#what-it-does)
 * [Calculation logic](#calculation-logic)
 * [Future Plans](#future-plans)
@@ -18,6 +19,8 @@ The online fashion industry is worth $770 Billion. That is more money than the G
 
 This project is designed with the purpose to help you avoid the frustration of recieving an ill-fitting garment by revolutionizing the way we choose sizes for our clothes. We aim to automate the process, ensuring a perfect fit every time, transforming the online shopping experience, as well as reduce the quantity of clothing material wasted.
 
+# Demonstration
+![Demo](Demo.png)
 ## What it does
 With a given picture and person`s height, it can meassure the length of the following body parts: head, shoulders, hands, torse, chest and legs.
 
