@@ -2,9 +2,9 @@
 
 * [Inspiration](#inspiration)
 * [What it does](#what-it-does)
-* [Technologies](#technologies)
 * [Calculation logic](#calculation-logic)
 * [Future Plans](#future-plans)
+* [Technologies](#technologies)
 
 ## Inspiration
 Imagine the thrill of discovering a stunning piece of clothing online, the anticipation as you wait for the package to arrive, and the excitement of wearing it for the first time. Now, imagine the crushing disappointment when that garment doesn’t fit and is likely to be thrown away or not used.
