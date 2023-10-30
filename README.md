@@ -1,4 +1,4 @@
-# Body-measurement python library
+# VIsual Sizer python library
 
 * [General info](#general-info)
 * [Technologies](#technologies)
